@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExplodeDemo</string>
+
+    <string name="about">
+
+        <font color="#000">This is <b>Gaurav Raj</b>(as this app says). I am an engineering undergraduate student(currently in final year) of Bengal College of Engineering and Technology, Durgapur in West Bengal.
+            I love to code and explore.<b>Coding is my religion</b>. Currently I am working on android and want to be good in this domain.
+        </font>
+
+    </string>
+</resources>
